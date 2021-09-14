@@ -1,19 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 body {
-    color: red;
-}
-
-h1 {
-    color:blue;
-}
-
-h2 {
-    color:green;
-}
-
-#lib-header {
-    color:black;
-}
-
-.para {
-    color:orange;
+    font-family: 'Satisfy', cursive;
 }
